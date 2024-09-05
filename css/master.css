@@ -1,0 +1,17 @@
+.theme-header {
+    background: #FFF;
+    display: flex;
+    padding-block-start: 0;
+    padding-block-end: 0;
+    padding-inline-start: 15px;
+    padding-inline-end: 15px;
+}
+
+
+/* .zptext {
+    font-size: 40px;
+} */
+
+.zptext-align-left-custom {
+    font-size: 40px;
+}
